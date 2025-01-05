@@ -1,0 +1,8 @@
+@inproceedings{REPO356,
+    author = "Huang, Yaodong and Mo, Changkang and Liu, Tianhang and Kong, Biying and Zhang, Lei and Yuan, Yukun and Cui, Laizhong",
+    booktitle = "2024 IEEE/ACM 32nd International Symposium on Quality of Service (IWQoS)",
+    organization = "IEEE",
+    pages = "1--6",
+    title = "{Quic meets icn: A versatile wireless transport strategy in multi-access edge environments}",
+    year = "2024"
+}
